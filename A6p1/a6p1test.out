@@ -1,0 +1,255 @@
+================================
+passed test on empty list
+================================
+test case 1 of 900000
+6  9  
+expected: false
+returned: false
+================================
+test case 2 of 900000
+1  15  10  12  9  13  10  11  
+expected: true
+returned: true
+================================
+test case 3 of 900000
+11  3  6  12  2  4  
+expected: false
+returned: false
+================================
+test case 4 of 900000
+11  8  
+expected: false
+returned: false
+================================
+test case 5 of 900000
+13  6  10  14  3  3  15  
+expected: true
+returned: true
+================================
+test case 6 of 900000
+10  6  2  13  7  1  
+expected: false
+returned: false
+================================
+test case 7 of 900000
+3  10  5  13  5  7  8  9  
+expected: true
+returned: true
+================================
+test case 8 of 900000
+4  11  2  13  6  11  
+expected: true
+returned: true
+================================
+test case 9 of 900000
+4  1  14  2  4  1  1  13  12  
+expected: true
+returned: true
+================================
+test case 10 of 900000
+0  9  14  1  1  1  12  
+expected: true
+returned: true
+================================
+test case 11 of 900000
+14  
+expected: false
+returned: false
+================================
+test case 12 of 900000
+14  
+expected: false
+returned: false
+================================
+test case 13 of 900000
+10  12  11  6  15  8  12  
+expected: true
+returned: true
+================================
+test case 14 of 900000
+12  0  11  11  2  15  12  4  12  
+expected: true
+returned: true
+================================
+test case 15 of 900000
+11  
+expected: false
+returned: false
+================================
+test case 16 of 900000
+2  10  
+expected: false
+returned: false
+================================
+test case 17 of 900000
+3  11  10  10  
+expected: true
+returned: true
+================================
+test case 18 of 900000
+11  9  
+expected: false
+returned: false
+================================
+test case 19 of 900000
+6  5  12  12  4  5  
+expected: true
+returned: true
+================================
+test case 20 of 900000
+14  1  9  
+expected: false
+returned: false
+================================
+test case 30000 of 900000
+10  11  11  8  
+expected: true
+returned: true
+================================
+test case 60000 of 900000
+15  10  7  15  12  9  13  4  
+expected: true
+returned: true
+================================
+test case 90000 of 900000
+11  9  14  4  4  2  
+expected: true
+returned: true
+================================
+test case 120000 of 900000
+13  9  12  14  8  14  11  8  
+expected: true
+returned: true
+================================
+test case 150000 of 900000
+4  3  15  3  8  7  4  3  
+expected: true
+returned: true
+================================
+test case 180000 of 900000
+9  10  8  3  14  9  
+expected: true
+returned: true
+================================
+test case 210000 of 900000
+15  1  12  10  11  4  9  15  11  
+expected: true
+returned: true
+================================
+test case 240000 of 900000
+3  
+expected: false
+returned: false
+================================
+test case 270000 of 900000
+7  2  7  7  
+expected: true
+returned: true
+================================
+test case 300000 of 900000
+0  3  6  4  4  1  15  
+expected: true
+returned: true
+================================
+test case 330000 of 900000
+4  2  12  13  
+expected: false
+returned: false
+================================
+test case 360000 of 900000
+10  10  15  4  
+expected: true
+returned: true
+================================
+test case 390000 of 900000
+15  14  5  7  7  2  8  14  
+expected: true
+returned: true
+================================
+test case 420000 of 900000
+10  
+expected: false
+returned: false
+================================
+test case 450000 of 900000
+7  9  10  2  
+expected: false
+returned: false
+================================
+test case 480000 of 900000
+5  
+expected: false
+returned: false
+================================
+test case 510000 of 900000
+10  13  11  
+expected: false
+returned: false
+================================
+test case 540000 of 900000
+3  4  11  8  
+expected: false
+returned: false
+================================
+test case 570000 of 900000
+3  10  5  3  2  5  0  7  
+expected: true
+returned: true
+================================
+test case 600000 of 900000
+0  11  5  7  7  8  5  
+expected: true
+returned: true
+================================
+test case 630000 of 900000
+12  5  15  10  
+expected: false
+returned: false
+================================
+test case 660000 of 900000
+9  4  15  12  12  
+expected: true
+returned: true
+================================
+test case 690000 of 900000
+13  11  12  4  5  9  0  
+expected: false
+returned: false
+================================
+test case 720000 of 900000
+14  10  14  10  14  4  
+expected: true
+returned: true
+================================
+test case 750000 of 900000
+10  2  13  6  5  2  6  12  3  
+expected: true
+returned: true
+================================
+test case 780000 of 900000
+14  1  1  0  5  6  1  4  
+expected: true
+returned: true
+================================
+test case 810000 of 900000
+13  8  
+expected: false
+returned: false
+================================
+test case 840000 of 900000
+1  
+expected: false
+returned: false
+================================
+test case 870000 of 900000
+2  
+expected: false
+returned: false
+================================
+test case 900000 of 900000
+0  7  5  6  0  0  10  
+expected: true
+returned: true
+================================
+test program terminated normally
+================================

@@ -1,0 +1,34 @@
+// FILE: sequence.template
+//IMPLEMENTS: The functions of the sequence template class which 
+//            rely on inputs/outputs of different value types
+//NOTE: Since sequence is a template class, this file is included in sequence.h
+
+#include <cstdlib>  // provides size_t
+#include <cassert>  // Provides assert
+
+namespace CS3358_SP2022_A04_template {
+    template <class T>
+    void sequence<T>::add(const T& entry) {
+      assert( size() < CAPACITY );
+      if ( ! is_item() ) {
+         if (used > 0)
+            for (size_type i = used; i >= 1; i--)
+               data[i] = data[i - 1];
+         data[0] = entry;
+         current_index = 0;
+      }
+      else
+      {
+         current_index++;
+         for (size_type i = used; i > current_index; i--)
+            data[i] = data[i - 1];
+         data[current_index] = entry;
+      }
+      used++;
+   }
+
+    T sequence<T>::current() const {
+      assert( is_item() );
+      return data[current_index];
+   }
+}

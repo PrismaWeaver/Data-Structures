@@ -1,0 +1,1 @@
+This code demonstrates a class that holds an array of values and can compare instances of that class to one another. The array's size is dynamically allocated as needed
